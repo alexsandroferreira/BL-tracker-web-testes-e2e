@@ -1,0 +1,81 @@
+{
+  "empresas": [
+
+    {
+      "nome": "Empresa um",
+      "nomeFantasia": "Empresa Fantasia um",
+      "cnpj": "12345678000195",
+      "endereco": {
+        "rua": "Rua da Paz",
+        "numero": "123",
+        "bairro": "Centro",
+        "cidade": "São Leopoldo",
+        "estado": "RS",
+        "cep": "93115-000",
+        "pais": "Brasil",
+        "complemento": "Casa"
+      }
+    },
+    {
+      "nome": "Empresa dois",
+      "nomeFantasia": "Empresa Fantasia dois",
+      "cnpj": "98765432000100",
+      "endereco": {
+        "rua": "Avenida Getúlio Vargas",
+        "numero": "456",
+        "bairro": "Centro",
+        "cidade": "São Leopoldo",
+        "estado": "RS",
+        "cep": "93115-001",
+        "pais": "Brasil",
+        "complemento": "Casa"
+      }
+    },
+    {
+      "nome": "Empresa tres",
+      "nomeFantasia": "Empresa Fantasia tres",
+      "cnpj": "13579246000112",
+      "endereco": {
+        "rua": "Rua Independência",
+        "numero": "789",
+        "bairro": "São João",
+        "cidade": "São Leopoldo",
+        "estado": "RS",
+        "cep": "93115-002",
+        "pais": "Brasil",
+        "complemento": "Casa"
+      }
+    },
+    {
+      "nome": "Empresa quatro",
+      "nomeFantasia": "Empresa Fantasia quatro",
+      "cnpj": "24681357000133",
+      "endereco": {
+        "rua": "Rua 7 de Setembro",
+        "numero": "321",
+        "bairro": "Vila Nova",
+        "cidade": "São Leopoldo",
+        "estado": "RS",
+        "cep": "93115-003",
+        "pais": "Brasil",
+        "complemento": "Casa"
+      }
+    },
+    {
+      "nome": "Empresa cinco",
+      "nomeFantasia": "Empresa Fantasia cinco",
+      "cnpj": "36925814700144",
+      "endereco": {
+        "rua": "Rua João Pessoa",
+        "numero": "654",
+        "bairro": "Morro do Espelho",
+        "cidade": "São Leopoldo",
+        "estado": "RS",
+        "cep": "93115-004",
+        "pais": "Brasil",
+        "complemento": "Casa"
+      }
+    }
+  ]
+}
+
